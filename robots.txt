@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jeartoc.github.io/sitemap.html.gz
+Sitemap: https://jeartoc.github.io/app/sitemap.html.gz
+Sitemap: https://jeartoc.github.io/assets/sitemap.html.gz
+Sitemap: https://jeartoc.github.io/css/sitemap.html.gz
+Sitemap: https://jeartoc.github.io/data/sitemap.html.gz
+Sitemap: https://jeartoc.github.io/includes/sitemap.html.gz
+Sitemap: https://jeartoc.github.io/item/sitemap.html.gz
+Sitemap: https://jeartoc.github.io/src/sitemap.html.gz
